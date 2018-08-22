@@ -1,0 +1,14 @@
+@startuml 
+DataExtractor : data
+DataExtractor : class_name
+DataExtractor : instance_attributes
+DataExtractor : instance_methods
+DataExtractor : inheritance
+DataExtractor : association
+DataExtractor : __init__()
+DataExtractor : get_class_name()
+DataExtractor : get_instance_attributes()
+DataExtractor : get_instance_method_names()
+DataExtractor : get_inheritance()
+DataExtractor : get_association()
+@enduml
